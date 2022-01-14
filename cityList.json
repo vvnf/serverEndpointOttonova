@@ -1,0 +1,139 @@
+{
+    "cities": [
+      {
+        "name": "Sydney",
+        "name_native": "Sydney",
+        "country": "Australia",
+        "continent": "Australia",
+        "latitude": "-33.865143",
+        "longitude": "151.209900",
+        "population": "5312000",
+        "founded": "1788",
+        "landmarks": [
+          {"name":"Sydney Opera House","img":"operaHouse.jpeg"},
+          {"name":"Sydney Harbour Bridge","img":"harbourBridge.jpeg"},
+          {"name":"Queen Victoria Building","img":"queenBuilding.jpeg"}
+        ]
+      },
+      {
+        "name": "New York City",
+        "name_native": "New York City",
+        "country": "United States",
+        "continent": "North America",
+        "latitude": "40.730610",
+        "longitude": "-73.935242",
+        "population": "8419000",
+        "founded": "1624",
+        "landmarks": [
+          {"name":"Chrysler Building","img":"Chrysler-Building-New-York-City.jpeg"},
+          {"name":"Brooklyn Bridge","img":"BrooklynBridge.jpeg"},
+          {"name":"Madison Square Garden","img":"madisonSquare.jpeg"}
+        ]
+      },
+      {
+        "name": "Madrid",
+        "name_native": "Madrid",
+        "country": "Spain",
+        "continent": "Europe",
+        "latitude": "40.416775",
+        "longitude": "-3.703790",
+        "population": "3223000",
+        "founded": "1083",
+        "landmarks": [
+          {"name":"Royal Palace","img":"RoyalPalace.jpeg"},
+          {"name":"Plaza Mayor","img":"MayorPlaza.jpeg"},
+          {"name":"Plaza de Cibeles","img":"800px-Plaza_de_Cibeles,_Madrid,_Spain_Qmin-medium.jpeg"}
+        ]
+      },
+      {
+        "name": "Moscow",
+        "name_native": "Москва",
+        "country": "Russia",
+        "continent": "Europe",
+        "latitude": "55.751244",
+        "longitude": "37.618423",
+        "population": "11920000",
+        "founded": "1147",
+        "landmarks": [
+          {"name":"Saint Basil's Cathedral","img":"1_Saint_Basils_Cathedral.jpeg"},
+          {"name":"Kremlin","img":"Kremlin_22.jpeg"},
+          {"name":"Bolshoi Theatre","img":"Bolshoi.jpeg"}
+        ]
+      },
+      {
+        "name": "Tokyo",
+        "name_native": "東京",
+        "country": "Japan",
+        "continent": "Asia",
+        "latitude": "35.652832",
+        "longitude": "139.839478",
+        "population": "13960000",
+        "founded": "1603",
+        "landmarks": [
+          {"name":"Meji Shrine","img":"Meiji-Jingu-2.jpeg"},
+          {"name":"Asakusa","img":"sensoji-temple-iStock-1083328636-1024x684.jpeg"},
+          {"name":"Tokyo Skytree","img":"skytree.jpeg"}
+        ]
+      },
+      {
+        "name": "Lagos",
+        "name_native": "Lagos",
+        "country": "Nigeria",
+        "continent": "Africa",
+        "latitude": "6.465422",
+        "longitude": "3.406448",
+        "population": "14800000",
+        "founded": "1914",
+        "landmarks": [
+          {"name":"Iga Idungaran","img":"iga-idungaran-bg.jpeg"},
+          {"name":"Freedom Park","img":"Freedom-Park-Lagos.-Photo-VisitNigeriaNow-897x598.jpg"},
+          {"name":"The Cathedral Church of Christ","img":"The_Cathedral_Church_of_Christ_Marina.jpg"}
+        ]
+      },
+      {
+        "name": "Sao Paulo",
+        "name_native": "São Paulo",
+        "country": "Brazil",
+        "continent": "South America",
+        "latitude": "-23.533773",
+        "longitude": "-46.625290",
+        "population": "12330000",
+        "founded": "1554",
+        "landmarks": [
+          {"name":"Mosteiro De Sao Bento","img":"mosteiro-de-sao-bento.jpeg"},
+          {"name":"Italian Building","img":"italianBuilding.jpeg"},
+          {"name":"Farol Santander","img":"farol.jpg"}
+        ]
+      },
+      {
+        "name": "Munich",
+        "name_native": "München",
+        "country": "Germany",
+        "continent": "Europe",
+        "latitude": "48.137154",
+        "longitude": "11.576124",
+        "population": "1472000",
+        "founded": "1158",
+        "landmarks": [
+          {"name":"Bavaria statue","img":"1200px-Bavaria_2.jpeg"},
+          {"name":"Marienplatz","img":"Marienplatz.jpeg"},
+          {"name":"ottonova office","img":"ottonova-buero_2.jpeg"}
+        ]
+      },
+      {
+        "name": "Mumbai",
+        "name_native": "मुंबई",
+        "country": "India",
+        "continent": "Asia",
+        "latitude": "19.0760",
+        "longitude": "72.8777",
+        "population": "2,00,000",
+        "founded": "1507",
+        "landmarks": [
+          {"name":"India Gate","img":"955980144Mumbai_Gateway_India_Main.jpeg"},
+          {"name":"Chhatrapati Shivaji terminus","img":"cst-lit-up-at-night1.jpeg"},
+          {"name":"Our Lady of Purification Church, Uran","img":"olpc.jpeg"}
+        ]
+      }
+    ]
+  }
